@@ -1,0 +1,70 @@
+
+/* Add a black background color to the top navigation */
+.topnav {
+    /*background-color: #333;*/
+    background-color: lightseagreen;
+    overflow: hidden;
+}
+
+*{
+    margin: 0;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: black;
+    color: white;
+    text-shadow: .1px .5px blue;
+}
+
+
+html{
+    background: linear-gradient(white 50%, darkslategrey 50%);
+}
+
+
+img{
+    display: block;
+    width: 50%;
+    margin: auto;
+    /*margin: 0px 30%;*/
+    /*width: 400px;*/
+    /*align-content: center;*/
+    /*border: 5px solid #333;*/
+    /*border-radius: 0px;*/
+}
+
+
+
+/*.black-box{*/
+/*     position: fixed;*/
+/*     background-color: darkslategray;*/
+/*     top: 0px;*/
+/*     right:0px;*/
+/*     left: 0px;*/
+/* }*/
+
+/*img styling*/
+/*.container {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    border: 1px solid black;*/
+/*    width: 500px;*/
+/*}*/
+
+
+
+img:hover{
+    /*border: 5px solid red;*/
+}
