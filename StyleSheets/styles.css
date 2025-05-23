@@ -61,33 +61,6 @@ img{
 }
 
 
-
-/*.black-box{*/
-/*     position: fixed;*/
-/*     background-color: darkslategray;*/
-/*     top: 0px;*/
-/*     right:0px;*/
-/*     left: 0px;*/
-/* }*/
-
-/*img styling*/
-/*.container {*/
-/*    display: flex;*/
-/*    justify-content: center;*/
-/*    align-items: center;*/
-/*    border: 1px solid black;*/
-/*    width: 500px;*/
-/*}*/
-
-/*img {*/
-/*    border: 2px solid white;*/
-/*    position: relative;*/
-/*    right: -250px;*/
-/*    bottom: -150px;*/
-/*    border-radius: 50%;*/
-/*    */
-/*}*/
-
 img:hover{
     background: linear-gradient(blue, purple);
 }
@@ -103,3 +76,5 @@ form{
 form:hover{
     background: linear-gradient(blue, red);
 }
+
+/*couldnt connect 2 hover effects to work at same time*/
