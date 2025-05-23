@@ -19,8 +19,23 @@
     text-shadow: .1px .5px blue;
 }
 
-/**/
 
-body{
+
+html{
+    background: linear-gradient(red, lightseagreen);
+    padding: 0px 0px 550px;
+}
+
+h1{
+    font-family: sans-serif;
+    text-shadow: 2px 2px lightcoral;
+}
+
+.white-box{
     background: lightskyblue;
+    margin: 0 auto;
+    width: 250px;
+    padding: 5px 5px 5px;
+    border-radius: 20px;
+    border-color: red;
 }

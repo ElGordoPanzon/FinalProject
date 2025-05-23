@@ -29,6 +29,7 @@
 
 body{
     background: linear-gradient( lightgray, darkslategray);
+    padding: 0px 0px 210px;
 }
 
 
@@ -89,4 +90,16 @@ img{
 
 img:hover{
     background: linear-gradient(blue, purple);
+}
+
+form{
+    background: linear-gradient(dodgerblue, rebeccapurple);
+    width: 250px;
+    padding: 5px 5px 5px;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+
+form:hover{
+    background: linear-gradient(blue, red);
 }
